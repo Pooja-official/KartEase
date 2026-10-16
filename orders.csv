@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,order_date,status,expected_or_delivered_date,amount_inr,payment_method
+KE1001,Arjun Kumar,Redmi Note smartphone,Electronics,2026-09-20,Delivered,2026-09-24,15999,UPI
+KE1002,Priya Ramesh,Prestige pressure cooker,Home and kitchen,2026-09-25,Shipped,2026-10-07,2499,Credit card
+KE1003,Mohammed Irfan,boAt wireless earbuds,Electronics,2026-09-28,Delivered,2026-10-01,1799,Cash on Delivery
+KE1004,Divya S,Cotton kurta set,Clothing,2026-09-30,Out for delivery,2026-10-05,1299,UPI
+KE1005,Karthik Raja,HP laptop 15-inch,Electronics,2026-10-01,Processing,2026-10-08,52990,Credit card EMI
+KE1006,Lakshmi Narayanan,Philips mixer grinder,Home and kitchen,2026-09-15,Return picked up,2026-09-19,3499,Debit card
+KE1007,Sneha Patel,Noise smart watch,Electronics,2026-09-29,Cancelled,,2999,UPI
+KE1008,Rahul Menon,Bluetooth speaker,Electronics,2026-10-02,Shipped,2026-10-06,3299,Net banking
+KE1009,Fathima Begum,Non-stick cookware set,Home and kitchen,2026-09-22,Delivered,2026-09-27,4199,Cash on Delivery
+KE1010,Vignesh Babu,Running shoes,Clothing,2026-10-03,Processing,2026-10-09,2799,UPI
